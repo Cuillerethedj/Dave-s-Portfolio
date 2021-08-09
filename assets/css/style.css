@@ -16,7 +16,7 @@ header ul
 
 header h1
 {
-    background-color: #e76f1f;
+    background-color: #1f86e7;
     height: 5vh;
     padding: .5vh 1vw 1vh 5vw;
     font-size: 250%;
@@ -25,7 +25,7 @@ header h1
 
 header ul li a
 {
-    color: #e76f1f;
+    color: #1f86e7;
     padding: 1vh;
     font-size: 150%;
     text-decoration-thickness: 3px;
@@ -45,11 +45,11 @@ main section {
 
 section h1
 {
-    color: #e76f1f;
+    color: #1f86e7;
     font-size: 200%;
     text-align: right;
     display: block;
-    border-right: 2px solid #e76f1f;
+    border-right: 2px solid #1f86e7;
     width: 20%;
     padding-right: .7vw;
 }
@@ -86,7 +86,7 @@ main > div img
 main > div h1
 {
     margin-right: 2vw;
-    background-color: #e76f1f;
+    background-color: #1f86e7;
     font-size: 150%;
     padding: 10px;
     position: absolute;
@@ -104,7 +104,7 @@ main > div h1
 .project-card
 {
     margin: 0 1.5vw 1.5vh 0;
-    border: 4px solid #e76f1f;
+    border: 4px solid #1f86e7;
     width: 47%;
     position: relative;
 }
@@ -134,7 +134,7 @@ main > div h1
     position: absolute;
     bottom: 1.5vh;
     left: 0;
-    background-color: #e76f1f;
+    background-color: #1f86e7;
     padding: 1vh;
 }
 
@@ -186,7 +186,7 @@ footer
     section h1
     {
         border-right: none;
-        border-bottom: 2px solid #e76f1f;
+        border-bottom: 2px solid #1f86e7;
         width: 100%;
         text-align: left;
     }
